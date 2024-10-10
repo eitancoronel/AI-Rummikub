@@ -4,6 +4,10 @@
 
 This project implements a digital version of the popular tile-based game **Rummikub**, featuring multiple AI opponents that employ different strategies. The goal of this project is to explore and compare various AI techniques in Rummikub, such as Monte Carlo Tree Search (MCTS), Greedy strategies, and Random moves.
 
+## YouTube Video
+
+Check out a demonstration of the project in action it will most probably answer most of your answers: https://www.youtube.com/watch?v=Jegy3UI6GMI&ab_channel=EitanCoronel
+
 ## Features
 
 - **Rummikub Game Interface**: A fully interactive GUI for playing Rummikub against AI opponents or with other players.
@@ -41,9 +45,7 @@ This project implements a digital version of the popular tile-based game **Rummi
 - Implement additional AI strategies (e.g. Reinforcement Learning).
 - Improve the visual design of the game board and tiles.
 
-## YouTube Video
 
-Check out a demonstration of the project in action: https://www.youtube.com/watch?v=Jegy3UI6GMI&ab_channel=EitanCoronel
 
 
 ---
