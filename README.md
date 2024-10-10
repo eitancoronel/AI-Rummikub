@@ -11,6 +11,9 @@ Check out a demonstration of the project in action it will most probably answer 
 ## Features
 
 - **Rummikub Game Interface**: A fully interactive GUI for playing Rummikub against AI opponents or with other players.
+- **Two Game Modes**:
+  - **GUI Mode**: Play the game with a graphical interface that supports drag-and-drop functionality.
+  - **Command-Line Mode**: Run the game in a non-GUI mode to evaluate AI strategies through simulations.
 - **Three AI Opponents**:
   - **Random AI**: Chooses moves randomly without considering the board state.
   - **Greedy AI**: Selects moves that provide the highest immediate gain.
