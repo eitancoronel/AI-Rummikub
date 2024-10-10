@@ -53,4 +53,4 @@ Check out a demonstration of the project in action it will most probably answer 
 
 ---
 
-Let me know if you have any question here is my Linkdin: https://www.linkedin.com/in/eitan-coronel/
+Let me know if you have any question here is my Linkedin: https://www.linkedin.com/in/eitan-coronel/
