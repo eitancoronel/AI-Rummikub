@@ -17,11 +17,10 @@ This project implements a digital version of the popular tile-based game **Rummi
 
 ## How to Run the Game
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/rummikub-ai.git
-   ```
-2. Install dependencies (if applicable):
+1. Clone the repository
+
+   
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
